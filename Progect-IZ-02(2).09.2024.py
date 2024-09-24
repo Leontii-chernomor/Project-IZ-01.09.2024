@@ -8,3 +8,4 @@ number_6 = (number_5*10**4) + (number_4*10**3) + (number_3*10**2) + (number_2*10
 print(number_5,number_4,number_3,number_2,number_1)
 
 print(number_6)
+print(f"{number_5}{number_4}{number_3}{number_2}{number_1}")
